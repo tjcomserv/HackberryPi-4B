@@ -23,3 +23,4 @@ Here are some **Main Features:**
 Dimension of HackberryPi: 91.8x143.5x27.3mm  
 Weight without battery: 252 Gram  
 Weight with battery: 342 Gram  
+![image](https://github.com/user-attachments/assets/04e82bf1-81fb-420d-8614-eced4c6f8d33)
