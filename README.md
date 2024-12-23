@@ -1,6 +1,10 @@
 # HackberryPi-4B
 A handheld Linux device using Raspberry Pi4B as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 ![043c94c715e7cb263354919bc21c08f](https://github.com/user-attachments/assets/ed3bdf6e-69dc-4b86-969a-3d08b9a6b6cd)
+![106fec2feaccdbe9e9c60b6248b77a4](https://github.com/user-attachments/assets/d6ffcdac-381e-4c04-b472-c101e290f7ca)
+![c2b2cffc7df166dcc34b98828bef613](https://github.com/user-attachments/assets/fd3551a1-add4-4a9d-a1ab-a441ba16bb92)
+
+
 
 ### [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
 # <a name='About this handheld  '>About this handheld</a>
