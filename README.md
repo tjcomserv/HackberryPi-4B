@@ -19,6 +19,11 @@ Here are some **Main Features:**
 **Charging Ampere**: Charge through the Type-C port. 2A charging rate; this handheld can be fully charged within 3-4 hours.  
 **Stemma I2C Port**: This device has a Stemma I2C port on board, you can connect with any I2C sensors.  
 
+
+# <a name='Different Operating System  '>Different Operating System</a>
+You can install Kali, Raspberrypi OS, or Retropi and many other OS into HackberryPi.  
+[This page](https://github.com/ZitaoTech/HackberryPi-4B/tree/main/Screen) will tell you how to install the display driver in a different operating system.  
+
 # <a name='Dimension and Weight  '>Dimension and Weight</a>
 Dimension of HackberryPi: 91.8x143.5x27.3mm  
 Weight without battery: 252 Gram  
