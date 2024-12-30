@@ -50,7 +50,7 @@ Put the `hyperpixel4.dtbo`file into `/boot/overlays`folder
 Now you can insert the TF card in to the slot and your HackberryPi will run Kali Linux on the screen.  
 
 # Other OS   
-![Ubuntu](https://github.com/ZitaoTech/HackberryPi-4B/tree/main/Screen/Ubuntu)  
+[Ubuntu](https://github.com/ZitaoTech/HackberryPi-4B/tree/main/Screen/Ubuntu)  
 
 # Troubleshoot  
 ![image](https://github.com/user-attachments/assets/72e6eebb-46fd-4443-887c-c18b7fc35222)  
