@@ -48,3 +48,13 @@ And the `config.txt` file will look like this:
 Download the `hyperpixel4.dtbo`file in this github page   
 Put the `hyperpixel4.dtbo`file into `/boot/overlays`folder  
 Now you can insert the TF card in to the slot and your HackberryPi will run Kali Linux on the screen.  
+
+
+# Troubleshoot  
+![image](https://github.com/user-attachments/assets/72e6eebb-46fd-4443-887c-c18b7fc35222)  
+You might found your display flickering or flashing like this on the picture. This happens when the display driver is powered but no image signal coming through.  
+It can usually happen when you flash a new SD card or wake up from screen blanking.  
+The display can recover itsself when you put the device running like 1 hour, but you need to disable screen blanking first.  
+Here are steps you need to do to disable screen blanking:  
+[On RaspberryPi OS](https://github.com/raspberrypi/documentation/blob/develop/documentation/asciidoc/computers/configuration/screensaver.adoc)  
+[On Kali](https://superuser.com/questions/1185747/how-do-i-disable-the-screensaver-lock-in-kali-linux)  
