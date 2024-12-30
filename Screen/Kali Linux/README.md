@@ -9,6 +9,8 @@ dtoverlay=vc4-kms-dpi-hyperpixel4sq
 ```
 
 Insert the tf card and you can see HackberryPi running Kali linux
+![image](https://github.com/user-attachments/assets/9a049e49-eef4-46af-961e-31cb7b6daf2d)
+
 
 ## Username and Password
 
