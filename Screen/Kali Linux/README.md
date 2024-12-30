@@ -46,5 +46,6 @@ Driver "libinput"
 EndSection
 ```
 
+Save and exit this file.  
 Then reboot, then the touch is no more inverted.  
 I suggest you do that under ssh, here is the way of [activating ssh on Kali](https://www.geeksforgeeks.org/how-to-enable-and-start-ssh-on-kali-linux/)
