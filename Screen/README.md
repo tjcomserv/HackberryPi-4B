@@ -51,6 +51,7 @@ Now you can insert the TF card in to the slot and your HackberryPi will run Kali
 
 # Other OS   
 [Ubuntu](https://github.com/ZitaoTech/HackberryPi-4B/tree/main/Screen/Ubuntu)  
+[Manjaro](https://github.com/ZitaoTech/HackberryPi-4B/tree/main/Screen/Manjaro)  
 
 # Troubleshoot  
 ![image](https://github.com/user-attachments/assets/72e6eebb-46fd-4443-887c-c18b7fc35222)  
