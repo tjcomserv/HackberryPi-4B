@@ -22,7 +22,7 @@ Turn on the HackberryPi4B, the screen will be black, wait until the left green l
 Turn off the HackberryPi and reboot.  
 And then your HackberryPi will run Raspberry Pi OS on the screen.  
 
-# Kali Linux or Raspberry Pi OS before 04/04/2022   
+# Raspberry Pi OS before 04/04/2022   
 
 ### Step 1  
 Add the following lines in `/boot/config.txt` in your TF card  
@@ -47,7 +47,7 @@ And the `config.txt` file will look like this:
 ### Step 2  
 Download the `hyperpixel4.dtbo`file in this github page   
 Put the `hyperpixel4.dtbo`file into `/boot/overlays`folder  
-Now you can insert the TF card in to the slot and your HackberryPi will run Kali Linux on the screen.  
+Now you can insert the TF card in to the slot and your HackberryPi will run old RpiOs on the screen.  
 
 # Other OS   
 [Ubuntu](https://github.com/ZitaoTech/HackberryPi-4B/tree/main/Screen/Ubuntu)  
